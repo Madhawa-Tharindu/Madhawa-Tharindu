@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="22" alt="mongodb logo"  />
 </div>
 
-<h4 align="center">Testing Frameworks/Libraries/Tools | Dev Environment | CI/CD Tools :</h4>
+<h4 align="center">Testing Frameworks/Libraries/Tools | DevOps Environments and Tools | CI/CD Tools :</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=selenium" height="22" alt="selenium logo"  />
