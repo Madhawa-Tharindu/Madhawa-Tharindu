@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=spring" height="22" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="22" alt="flask logo"  />
-  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="22" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="22" alt="oracle logo"  />
