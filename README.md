@@ -14,11 +14,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="22" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="22" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="22" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="22" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="22" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="22" alt="html5 logo"  />
   <img width="12" />
